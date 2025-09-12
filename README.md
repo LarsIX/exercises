@@ -1,24 +1,24 @@
-# Exercises
+# Übungen
 
-This repository contains my programming assignments from two Coursera specializations.
+Dieses Repository enthält meine Programmieraufgaben aus zwei Coursera-Spezialisierungen.
 
-## 1. Deep Learning Specialization (DL)
-Covers the programming and application of:
-- Artificial Neural Networks (ANN)
-- Recurrent Neural Networks (RNN)
+## 1. Deep Learning Spezialisierung (DL)
+Behandelt die Programmierung und Anwendung von:
+- Künstlichen Neuronalen Netzen (ANN)
+- Rekurrenten Neuronalen Netzen (RNN)
 - Convolutional Neural Networks (CNN)
 - Long Short-Term Memory Networks (LSTM)
-- Transformer architectures
+- Transformer-Architekturen
 
-## 2. Natural Language Processing Specialization (NLP)
-Covers the programming and application of:
-- Transformer models
+## 2. Natural Language Processing Spezialisierung (NLP)
+Behandelt die Programmierung und Anwendung von:
+- Transformer-Modellen
 - Siamese Networks
 - Word Embeddings
 - Named Entity Recognition (NER)
-- Machine Translation
-- Part-of-Speech (PoS) tagging
+- Maschineller Übersetzung
+- Part-of-Speech (PoS) Tagging
 
 ---
 
-Certificates: [View on Coursera](https://www.coursera.org/user/7d97b9db1ebe3b7c864b7ffbc4ea3968)
+Zertifikate: [Auf Coursera ansehen](https://www.coursera.org/user/7d97b9db1ebe3b7c864b7ffbc4ea3968)
